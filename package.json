@@ -9,9 +9,18 @@
    "keywords": [],
    "author": "",
    "license": "ISC",
-   "dependencies": {
+   "devDependencies": {
       "jest": "^29.7.0"
    },
-   "devDependencies": {},
-   "description": ""
+   "description": "![HenryLogo](./assets/logoBannerHenry.png)",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/RUTHmaria4/fe-ct-prepcourse-fs.git"
+   },
+   "bugs": {
+      "url": "https://github.com/RUTHmaria4/fe-ct-prepcourse-fs/issues"
+   },
+   "homepage": "https://github.com/RUTHmaria4/fe-ct-prepcourse-fs#readme"
+
+
 }

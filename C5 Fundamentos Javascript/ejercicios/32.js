@@ -7,6 +7,13 @@ function elevarAlCubo(num) {
   // 3 ---> 27
   // 0 ---> 0
   // Tu código:
+  return Math.pow(num,3);
 }
 
 module.exports = elevarAlCubo;
+
+//EJEMPLO
+console.log(elevarAlCubo(9));
+console.log(elevarAlCubo(20));
+console.log(elevarAlCubo(50));
+

@@ -5,6 +5,14 @@ function obtenerAreaRectangulo(alto, ancho) {
   // 2, 2 ---> 4
   // 0, 2 ---> 2
   // Tu código:
+  return alto * ancho; 
 }
 
 module.exports = obtenerAreaRectangulo;
+
+
+//EJEMPLO
+let alto = 1.53;
+let ancho = 70;
+let area = obtenerAreaRectangulo(alto, ancho);
+console.log(area);
